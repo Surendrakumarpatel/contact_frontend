@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://contactbackend-r1yl.onrender.com"
